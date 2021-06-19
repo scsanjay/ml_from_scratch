@@ -5,3 +5,4 @@ I will implement the basic version of the models and might ignore some boundry c
 
 List of implementations
   1. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/01.%20Bag%20of%20Words.ipynb">Bag of Words (as sklearn.feature_extraction.text.CountVectorizer)</a>
+  2. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/02.%20K%20Nearest%20Neighbor%20(KNN)/Knn.ipynb">K Nearest Neighbor (KNN)</a>
