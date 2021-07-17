@@ -7,4 +7,4 @@ List of implementations
   1. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/01.%20Text%20to%20Vector/Bow.ipynb">Bag of Words</a>
   2. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/02.%20K%20Nearest%20Neighbor%20(KNN)/Knn.ipynb">K Nearest Neighbor (KNN)</a>
   3. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/03.%20Naive%20Bayes/MultinomialNaiveBayes.ipynb">Multinomial Naive Bayes</a> 
-  4. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/04.%20Linear%20Regression/LinearRegression.ipynb">Linear Regression L2 Regularizer.</a> 
+  4. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/04.%20Linear%20Regression/LinearRegression.ipynb">Linear Regression L2 Regularizer</a> 
