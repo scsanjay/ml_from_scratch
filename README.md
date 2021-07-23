@@ -9,3 +9,4 @@ List of implementations
   3. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/03.%20Naive%20Bayes/MultinomialNaiveBayes.ipynb">Multinomial Naive Bayes</a> 
   4. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/04.%20Linear%20Regression/LinearRegression.ipynb">Linear Regression with L2 Regularizer</a> 
   5. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/05.%20Logistic%20Regression/LogisticRegression.ipynb">Logistic Regression with L1 Regularizer</a> 
+  6. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/06.%20Support%20Vector%20Machine/SVM.ipynb">Support Vector Machine</a> 
