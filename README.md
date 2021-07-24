@@ -10,5 +10,5 @@ List of implementations
   4. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/04.%20Linear%20Regression/LinearRegression.ipynb">Linear Regression with L2 Regularizer</a> 
   5. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/05.%20Logistic%20Regression/LogisticRegression.ipynb">Logistic Regression with L1 Regularizer</a> 
   6. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/06.%20Support%20Vector%20Machine/SVM.ipynb">Support Vector Machine</a> 
-  7. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/07.%20Decision%20Tree/DecisionTreeClassifier.ipynb">Decision Tree Classifier</a> 
+  7. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/07.%20Decision%20Tree%20Classification/DecisionTreeClassifier.ipynb">Decision Tree Classifier</a> 
   8. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/08.%20Decision%20Tree%20Regression/DecisionTreeRegressor.ipynb">Decision Tree Regressor</a> 
