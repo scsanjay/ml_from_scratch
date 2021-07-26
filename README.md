@@ -12,3 +12,4 @@ List of implementations
   6. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/06.%20Support%20Vector%20Machine/SVM.ipynb">Support Vector Machine</a> 
   7. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/07.%20Decision%20Tree%20Classification/DecisionTreeClassifier.ipynb">Decision Tree Classifier</a> 
   8. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/08.%20Decision%20Tree%20Regression/DecisionTreeRegressor.ipynb">Decision Tree Regressor</a> 
+  9. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/09.%20KNN%20Regression/KnnRegression.ipynb">Knn Regressor</a> 
