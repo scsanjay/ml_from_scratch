@@ -13,3 +13,6 @@ List of implementations
   7. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/07.%20Decision%20Tree%20Classification/DecisionTreeClassifier.ipynb">Decision Tree Classifier</a> 
   8. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/08.%20Decision%20Tree%20Regression/DecisionTreeRegressor.ipynb">Decision Tree Regressor</a> 
   9. <a href="https://github.com/scsanjay/ml_from_scratch/blob/main/09.%20KNN%20Regression/KnnRegression.ipynb">Knn Regressor</a> 
+
+
+<b>Note: Some of the files large and may not load if you have slow connection. So you can use https://nbviewer.jupyter.org/ to view them. Just copy paste the ipynb url.</b>
