@@ -1,4 +1,5 @@
 ## Converts a corpus into vector representation
+https://github.com/scsanjay/ml_from_scratch/blob/main/01.%20Text%20to%20Vector/Bow.ipynb
 
 Parameters
 ----------
