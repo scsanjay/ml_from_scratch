@@ -1,4 +1,5 @@
 ## Multinomial Naive Bayes
+https://github.com/scsanjay/ml_from_scratch/blob/main/03.%20Naive%20Bayes/MultinomialNaiveBayes.ipynb
 
   Parameters
   ----------
