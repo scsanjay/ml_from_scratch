@@ -1,5 +1,7 @@
   ## Decision Tree Classification with Gini Impurity.
 
+https://github.com/scsanjay/ml_from_scratch/blob/main/07.%20Decision%20Tree%20Classification/DecisionTreeClassifier.ipynb
+
   Parameters
   ----------
     max_depth : int, default=None
