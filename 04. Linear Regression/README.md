@@ -1,22 +1,23 @@
 ## SGD implementation of Linear Regression
+https://github.com/scsanjay/ml_from_scratch/blob/main/04.%20Linear%20Regression/LinearRegression.ipynb
 
   Parameters
   ----------
-  penalty : {'l1', 'l2'}, default l2
+    penalty : {'l1', 'l2'}, default l2
 
-  alpha : float, default = 0.0001
-    multiplier for the regularisation term
-  
-  eta0 : float, default = 0.001
-    initial learning rate
+    alpha : float, default = 0.0001
+      multiplier for the regularisation term
 
-  epoch : int, default = 1000
+    eta0 : float, default = 0.001
+      initial learning rate
+
+    epoch : int, default = 1000
 
   Attributes
   ----------
-  weights : array of size n_features
+    weights : array of size n_features
 
-  bias : float
+    bias : float
   
   Methods
   -------
