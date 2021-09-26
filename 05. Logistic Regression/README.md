@@ -22,7 +22,7 @@
   -------
   
   ### fit
-    It will find a hyperplane that best separate the data.
+   It will find a hyperplane that best separate the data.
 
     Parameters
     ----------
@@ -35,7 +35,7 @@
     self : object
   
   ### predict
-    It will predict the output classes for the test data.
+   It will predict the output classes for the test data.
 
     Parameters
     ----------
