@@ -21,8 +21,7 @@
   Methods
   -------
   
-  fit
-  ---
+  ### fit
     It will find a hyperplane that best separate the data.
 
     Parameters
@@ -35,8 +34,7 @@
     -------
     self : object
   
-  predict
-  -------
+  ### predict
     It will predict the output classes for the test data.
 
     Parameters
