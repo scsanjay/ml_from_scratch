@@ -2,13 +2,13 @@
 
 Parameters
 ----------
-  binary : bool, default=False
-      If True it will return Boolean BoW.
+    binary : bool, default=False
+        If True it will return Boolean BoW.
 
 Attributes
 ----------
-  vocabulary_ : dict
-      Dictionary with key as the features and the values as the
+    vocabulary_ : dict
+        Dictionary with key as the features and the values as the
 
 Methods
 -------
