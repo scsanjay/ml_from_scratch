@@ -1,4 +1,5 @@
   ## SGD implementation of Logistic Regression
+  https://github.com/scsanjay/ml_from_scratch/blob/main/05.%20Logistic%20Regression/LogisticRegression.ipynb
 
   Parameters
   ----------
