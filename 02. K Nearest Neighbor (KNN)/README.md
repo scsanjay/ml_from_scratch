@@ -1,4 +1,6 @@
 ## K-nearest neighbors 
+https://github.com/scsanjay/ml_from_scratch/blob/main/02.%20K%20Nearest%20Neighbor%20(KNN)/Knn.ipynb
+
 k-nearest neighbors aka knn is a classification technique which looks
 at it's neighbors to predict label for a query point.
 
