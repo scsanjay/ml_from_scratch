@@ -1,5 +1,7 @@
 ## Decision Tree Regression with MSE.
 
+https://github.com/scsanjay/ml_from_scratch/blob/main/08.%20Decision%20Tree%20Regression/DecisionTreeRegressor.ipynb
+
   Parameters
   ----------
     max_depth : int, default=None
