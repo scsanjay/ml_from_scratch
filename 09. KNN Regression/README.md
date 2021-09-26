@@ -1,4 +1,7 @@
 ## K-Nearest Neighbors regression 
+
+https://github.com/scsanjay/ml_from_scratch/blob/main/09.%20KNN%20Regression/KnnRegression.ipynb
+
 k-nearest neighbors regression looks at it's neighbors to predict 
   output for a query point.
 
