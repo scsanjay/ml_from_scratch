@@ -1,5 +1,5 @@
  ## SGD implementation of Support Vector Machine
-
+https://github.com/scsanjay/ml_from_scratch/blob/main/06.%20Support%20Vector%20Machine/SVM.ipynb
   Parameters
   ----------
     C : float, default = 1
